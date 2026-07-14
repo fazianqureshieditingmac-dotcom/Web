@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 # =========================
 # SETTINGS
 # =========================
-URL = "https://www.goethe.de/ins/pk/en/spr/prf/gza1.cfm"
+URL = "https://www.goethe.de/ins/my/en/spr/prf/gzb1.cfm"
 WEBHOOK_URL = "https://discord.com/api/webhooks/1526522806991585391/BoVGmryW_u90BTD2JcxYrRZweDG_WxZuEO6Emnzlle4GxAwDUYxPLSftJPZ1kGeIAcG7"
 CHECK_INTERVAL = 30  # Check every 30 seconds
 
